@@ -29,7 +29,7 @@ $ sudo docker cp /path/to/your/binary container_id:/home/
 ~~~~
 
 ## Note
-Generally speaking, this work requries crash input from fuzzing tools.
+Generally speaking, this work requries crash input from fuzzing tools.\n
 The crash input that I give in this repo is generated from my previous sqsym. Please cheeck out.
 
 
