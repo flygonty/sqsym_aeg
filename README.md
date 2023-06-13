@@ -30,6 +30,6 @@ $ sudo docker cp /path/to/your/binary container_id:/home/
 
 ## Note
 Generally speaking, this work requries crash input from fuzzing tools.\
-The crash input that I give in this repo is generated from my previous sqsym. Please cheeck out
+The crash input that I give in this repo is generated from my previous sqsym. Please cheeck [link](https://github.com/flygonty/sqsym)
 
 Ideally, the whole project should be 1.fuzzing 2.exploit generation. Unfortunately, I don't have enough time to do this. Please wait for the further update!
