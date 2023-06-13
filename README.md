@@ -7,10 +7,10 @@
 
 ~~~~{.sh}
 # build docker image
-$ sudo docker build -t sqsym_aeg:cs250 .
+$ docker build -t sqsym_aeg:cs250 .
 
 # run docker image
-$ sudo docker run -it sqsym_aeg:cs250 /bin/bash
+$ docker run -it sqsym_aeg:cs250 /bin/bash
 ~~~~
 
 ## Run AEG
